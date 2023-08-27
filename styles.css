@@ -1,0 +1,30 @@
+*{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+.headers{
+    color: darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 72px;
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: auto;
+}
+.description{
+    color: darkolivegreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: center;
+}
+.list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+.steps{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
